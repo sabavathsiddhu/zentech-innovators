@@ -1,0 +1,7 @@
+{
+  "name": "ZenTech Innovators",
+  "description": "India’s fastest-growing internship and skill development platform providing verified certifications, hands-on projects, and real-world exposure.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
